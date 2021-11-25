@@ -76,7 +76,7 @@
 /* Main section header */
 
 .main-header {
-  background-image: url('/imagenes/foto.jpg');
+  background-image: url('imagenes/foto.jpg');
   background-repeat: no-repeat;
   background-size: cover;
   display: flex;
