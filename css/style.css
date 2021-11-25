@@ -76,11 +76,7 @@
 /* Main section header */
 
 .main-header {
-<<<<<<< HEAD
   background-image: url('/imagenes/foto.jpg');
-=======
-  background-image: url('imagenes/foto.jpg');
->>>>>>> c2a1be406c4846f6c8e8b611149bfe8098b8a2c9
   background-repeat: no-repeat;
   background-size: cover;
   display: flex;
